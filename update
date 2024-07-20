@@ -5,8 +5,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://etslive-2-vidio-com.akamaized.net/exp=1688438786~acl=/hls-p/ingest_9182_*/*~hmac=62b2f7336b5acb0e7a2f2bfc3034c204b8ef92cf896427d0038b19ad5e377a41/hls-p/ingest_9182_1080p/index.m3u8
-#https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721499996~acl=%2f*~id=143969542~data=hdntl~hmac=8eb07daab4bee7f33ec663c71e26cf618fb308f00655e449d7050887336c8a80
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721499996~acl=%2f*~id=143969542~data=hdntl~hmac=8eb07daab4bee7f33ec663c71e26cf618fb308f00655e449d7050887336c8a80
 
 
 
