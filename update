@@ -4,10 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vidio_logo.svg/1200px-Vidio_logo.svg.png" group-title="[LIVE]" , INDONESIA VS LIBYA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721499996~acl=%2f*~id=143969542~data=hdntl~hmac=8eb07daab4bee7f33ec663c71e26cf618fb308f00655e449d7050887336c8a80
-
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_480p/hdntl=exp=1721505556~acl=%2f*~id=143969542~data=hdntl~hmac=b83a28823fa2da06bed535a51e6109eaf37ba2ebe74201b4717e5805cd6e8943/1721491195000.ts
 
 #EXTINF:-1 tvg-name="DSTV| SUPER SPORT PREMIER LEAGUE HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="AF | DSTV",DSTV| SUPER SPORT PREMIER LEAGUE HD
 http://pmqjsdm.mexamo.xyz:80/live/9034640195/9334079805/159892.m3u8
